@@ -2,9 +2,9 @@
 <img src='./build/icon.png' width="150" height="150" alt="AgentConnector AI Assistant Icon" />
 </p>
 
-<h1 align="center">AgentConnector - Powerful Open-Source Multi-Model AI Chat Platform</h1>
+<h1 align="center">AgentConnector - Powerful Open-Source Multi-Model Agent network client</h1>
 
-<p align="center">AgentConnector is a feature-rich open-source AI chat platform built upon Deep Chat, supporting multiple cloud and local large language models with powerful search enhancement and tool calling capabilities.</p>
+<p align="center">AgentConnector is a feature-rich open-source Agent network client built upon DeepChat, supporting multiple cloud and local large language models with powerful search enhancement and tool calling capabilities.</p>
 
 <div align="center">
   <a href="./README.zh.md">中文</a> / <a href="./README.md">English</a>
@@ -33,7 +33,7 @@
 
 ## 🚀 Project Introduction
 
-AgentConnector is a powerful, open-source AI chat platform that delivers a unified interface for interacting with a wide range of large language models. Whether you're leveraging cloud APIs such as OpenAI, Gemini, and Anthropic, or running local models via Ollama, AgentConnector ensures a seamless and consistent user experience across all endpoints.
+AgentConnector is a powerful, open-source Agent network client that delivers a unified interface for interacting with a wide range of large language models. Whether you're leveraging cloud APIs such as OpenAI, Gemini, and Anthropic, or running local models via Ollama, AgentConnector ensures a seamless and consistent user experience across all endpoints.
 
 As a cross-platform application, it goes beyond basic conversational AI by integrating advanced capabilities—including search augmentation, tool calling, and multimodal interaction—to make sophisticated AI functionalities more accessible and practical for everyday use.
 
