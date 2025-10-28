@@ -2,9 +2,9 @@
 <img src='./build/icon.png' width="150" height="150" alt="AgentConnector AI Assistant Icon" />
 </p>
 
-<h1 align="center">AgentConnector - Powerful Open-Source Multi-Model Agent network client</h1>
+<h1 align="center">AgentConnector - Powerful Open-Source Multi-Model Agent Network Client</h1>
 
-<p align="center">AgentConnector is a feature-rich open-source Agent network client built upon DeepChat, supporting multiple cloud and local large language models with powerful search enhancement and tool calling capabilities.</p>
+<p align="center">AgentConnector is a feature-rich open-source Agent Network Client built upon DeepChat, supporting multiple cloud and local large language models with powerful search enhancement and tool calling capabilities.</p>
 
 <div align="center">
   <a href="./README.zh.md">中文</a> / <a href="./README.md">English</a>
